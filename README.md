@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/gatsbyz/count.svg" />
 </p>
 
-![svg](https://raw.githubusercontent.com/gatsbyz/main/docs/demo/profile-gitblock.svg)
+[![Jesse Lee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3026744)](https://stackoverflow.com/users/3026744/gatsbyz)
 
 - 👋 Hi, I’m @gatsbyz.
 - 👀 Interested in systems, infrastructure, networking, and the most recently blockchain.
