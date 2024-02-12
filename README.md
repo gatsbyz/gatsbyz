@@ -3,6 +3,8 @@
   <img src="https://profile-counter.glitch.me/gatsbyz/count.svg" />
 </p>
 
+![svg](https://raw.githubusercontent.com/gatsbyz/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+
 - 👋 Hi, I’m @gatsbyz.
 - 👀 Interested in systems, infrastructure, networking, and the most recently blockchain.
 - 🌱 Learning all things web3 - previously polygon.technology under a jedi master.
