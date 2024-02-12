@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @gatsbyz.
-- 👀 I’m interested in systems, infrastructure, networking, and the most recently blockchain.
-- 🌱 I’m currently learning all things web3 @ polygon.technology under a jedi master.
-- 💞️ I’m looking to collaborate on building apis and tools in web3
+- 👀 Interested in systems, infrastructure, networking, and the most recently blockchain.
+- 🌱 Learning all things web3 - previously polygon.technology under a jedi master.
+- 💞️ Building tools in web3
 - 📫 Reach me @ gatsby1118@gmail.com
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 <!---
 gatsbyz/gatsbyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
