@@ -1,5 +1,5 @@
 <p align="center"> 
-  Visitor count<br>
+  Visitor count (since 02/12/2024)<br>
   <img src="https://profile-counter.glitch.me/gatsbyz/count.svg" />
 </p>
 
