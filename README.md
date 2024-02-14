@@ -9,7 +9,7 @@
 - 💞️ Building tools in web3
 - 📫 Reach me @ gatsby1118@gmail.com
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+[![GitHub Game of Life](https://github4life.herokuapp.com/gatsbyz.gif?z=6)](https://github4life.herokuapp.com/gatsbyz)
 
 [![Jesse Lee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3026744)](https://stackoverflow.com/users/3026744/gatsbyz)
 
