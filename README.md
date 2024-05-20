@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/gatsbyz/count.svg" />
 </p>
 
-- 👋 Hi, I’m @gatsbyz.
+- 👋 Hi, I’m @gatsbyz. My dog's name is Gatsby. My cat's name is Beta.
 - 👀 I like in systems, infrastructure, and networking.
 - ⛓️ Building blockchain networks and tools, currently for @renprotocol. Previously for @0xPolygon.
 - 💞️ Aside from building infrastructure, I like building tools for web3
