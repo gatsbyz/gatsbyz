@@ -9,7 +9,7 @@
 - 💞️ Aside from building infrastructure, I like building tools for web3
 - 🛠️ I also use real tools and serve as a handyman for local homes and biz. 
 - 🌱 Learning home improvement techniques and knowledge.
-- 📫 Reach me at gatsby1118@gmail.com
+- 📫 Reach me at chat@gatsbyz.dev
 
 [![Jesse Lee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3026744)](https://stackoverflow.com/users/3026744/gatsbyz)
 
