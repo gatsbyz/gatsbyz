@@ -1,7 +1,4 @@
-<p align="center"> 
-  Visitor count (since 02/12/2024)<br>
-  <img src="https://profile-counter.glitch.me/gatsbyz/count.svg" />
-</p>
+
 
 - 👋 Hi, I’m @gatsbyz. My dog's name is Gatsby. My cat's name is Beta.
 - 👀 I like in systems, infrastructure, and networking.
